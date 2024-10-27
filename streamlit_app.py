@@ -50,7 +50,7 @@ if ingredients_list:
 
 import requests
 
-if ingredients _list:
+if ingredients_list:
       ingredients_string = ''
 
       for fruit_chosen in ingredients_list:
